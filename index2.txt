@@ -1,21 +1,6 @@
 :
 f
-git
-git
-git
-git
-gitttttgit
-git diff
-i
-ci
-weeq
-weqeqi
-git
-git
-gidfsafs
-수정했어 
-이거는 핫핏스
-t
+master git
 
-t
-git
+hotfix branch
+hotfix branch -d
