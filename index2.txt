@@ -6,4 +6,5 @@ hotfix branch
 hotfix branch -d
  
 
-3/22 08:37 수정
+3/22 08:37 깃에서 수정
+3/22 08:50 깃헙에서 수정
